@@ -1,18 +1,7 @@
-.requestDemo {
-    background-color: #109cdc;
-    padding: 2% 2% 2% 2%;
-    display: inline;
-    border-radius: 70px;
-}
-
 .sticky {
     position: fixed;
     top: 0;
     width: 100%;
-}
-
-.requestDemo a {
-    color: white !important;
 }
 
 .navbar-static-top {
@@ -99,16 +88,7 @@
         }
 
         a:hover {
-            border-bottom: 3px solid #109cdc;
-            padding-bottom: 3px;
-        }
-
-        .requestDemo:hover {
-            background-color: #0e75a5;
-        }
-
-        .requestDemo a:hover {
-            border-bottom: none;
+            font-weight: bold;
         }
     }
 }
